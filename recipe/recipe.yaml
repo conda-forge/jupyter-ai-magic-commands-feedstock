@@ -1,5 +1,5 @@
 context:
-  version: "0.0.2"
+  version: "0.0.3"
 
 package:
   name: jupyter-ai-magic-commands
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/j/jupyter-ai-magic-commands/jupyter_ai_magic_commands-${{ version }}.tar.gz
-  sha256: 57451a82b165ba4c32b5747eb2036b2cf0abcfa7dcae2d703ecaa3f989e70f30
+  sha256: 39b2436eef41636aae5285f8360ac11228c99910a85f4a968030b64616e10d6b
 
 build:
   noarch: python
